@@ -8,3 +8,5 @@ node_modules
 !.env.example
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+service-account.json
+fireship-sveltekit-app-firebase-adminsdk-jip4d-2a57a108c2.json
