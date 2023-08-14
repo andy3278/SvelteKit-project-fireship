@@ -4,3 +4,4 @@
 <h2 class="text-3xl font-bold underline">testing page.svelte</h2>
 <button class="btn btn-primary">
     testing</button>
+<a href="/login">Sign In</a>
