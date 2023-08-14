@@ -2,5 +2,8 @@
     import "../app.css"
 </script>
 
-<slot />
+<div class="min-h-screen flex flex-col">
+    <slot />
+</div>
+x
 ```
